@@ -1,0 +1,8 @@
+{
+  "name": "sazegar-MicroService-v1",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
